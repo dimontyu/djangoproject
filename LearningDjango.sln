@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearningDjango", "LearningDjango\LearningDjango.pyproj", "{851604BF-4C69-4949-9B2C-860362E4E79E}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicProject", "LearningDjango\BasicProject.pyproj", "{851604BF-4C69-4949-9B2C-860362E4E79E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
