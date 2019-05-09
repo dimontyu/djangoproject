@@ -72,6 +72,7 @@
     <Content Include="HelloDjangoApp\static\site.css" />
     <Content Include="HelloDjangoApp\templates\about.html" />
     <Content Include="HelloDjangoApp\templates\HelloDjangoApp\index.html" />
+    <Content Include="HelloDjangoApp\templates\layout.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
