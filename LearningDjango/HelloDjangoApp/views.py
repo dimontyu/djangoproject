@@ -11,8 +11,17 @@ def index(request):
         # "index.html", # Use this code for VS 2017 15.7 and earlier
         {
             'title' : "Hello Django",
-            'message' : "Hello Django!",
+            'message' : "Здравствуй Django!",
             'content' : " on " + now.strftime("%A, %d %B, %Y at %X")
+        }
+    )
+def about(request):
+    return render(
+        request,
+        "HelloDjangoApp/about.html",
+        {
+            'title' : "About HelloDjangoApp",
+            'content' : "Пример страницы приложения for Django."
         }
     )
 
